@@ -1,0 +1,12 @@
+# Editor directories and files
+.vscode/
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Ignore large datasets or models IF they exceed GitHub's 100MB limit
+# saved_resume_model.keras 
+# resume_data.csv

@@ -1,0 +1,8 @@
+pandas
+numpy
+sentence-transformers
+tensorflow
+streamlit
+spacy
+PyPDF2
+plotly
